@@ -66,8 +66,6 @@
 
 <div align=left>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://an-oymous.tistory.com/)](https://an-oymous.tistory.com/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tombyun/)](https://www.facebook.com/tombyun/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bbanderson/)](https://www.instagram.com/bbanderson/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://an-onymous.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%96%B8%EC%96%B4)](https://an-onymous.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%96%B8%EC%96%B4) 
 
 </div>
