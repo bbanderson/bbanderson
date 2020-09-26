@@ -62,10 +62,3 @@
 - ⚡ Fun fact: ...
 -->
 
-
-
-<div align=left>
-  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://an-onymous.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%96%B8%EC%96%B4)](https://an-onymous.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%96%B8%EC%96%B4) 
-
-</div>
